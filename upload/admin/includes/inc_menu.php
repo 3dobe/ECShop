@@ -134,7 +134,6 @@ $modules['13_backup']['convert']                    = 'convert.php?act=main';
 
 //$modules['14_sms']['02_sms_my_info']                = 'sms.php?act=display_my_info';
 $modules['14_sms']['03_sms_send']                   = 'sms.php?act=display_send_ui';
-$modules['14_sms']['04_sms_sign']                   = 'sms.php?act=sms_sign';
 //$modules['14_sms']['04_sms_charge']                 = 'sms.php?act=display_charge_ui';
 //$modules['14_sms']['05_sms_send_history']           = 'sms.php?act=display_send_history_ui';
 //$modules['14_sms']['06_sms_charge_history']         = 'sms.php?act=display_charge_history_ui';
@@ -146,4 +145,15 @@ $modules['16_email_manage']['email_list']           = 'email_list.php?act=list';
 $modules['16_email_manage']['magazine_list']        = 'magazine_list.php?act=list';
 $modules['16_email_manage']['attention_list']       = 'attention_list.php?act=list';
 $modules['16_email_manage']['view_sendlist']        = 'view_sendlist.php?act=list';
+
+
+$modules['17_molibe']['01_ad_list']           = 'mobile_ad.php?act=list';
+$modules['17_molibe']['02_mobile_license']           = 'mobile_license.php?act=list_edit';
+$modules['17_molibe']['03_mobile_navigator']           = 'mobile_navigator.php?act=list';
+$modules['17_molibe']['04_mobile_pay']           = 'mobile_payment.php?act=list';
+
+
+
+
+
 ?>

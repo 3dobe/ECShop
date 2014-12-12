@@ -918,6 +918,7 @@ elseif ($action == 'address_list')
 
     /* 取得国家列表、商店所在国家、商店所在国家的省列表 */
     $smarty->assign('country_list',       get_regions());
+
     $smarty->assign('shop_province_list', get_regions(1, $_CFG['shop_country']));
 
     /* 获得用户所有的收货人信息 */

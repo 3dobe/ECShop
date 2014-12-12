@@ -145,6 +145,9 @@ $_LANG['14_sms'] = '短信管理';
 $_LANG['15_rec'] = '推荐管理';
 $_LANG['16_email_manage'] = '邮件群发管理';
 
+$_LANG['17_molibe'] = '手机端管理';
+
+
 /* 商品管理 */
 $_LANG['01_goods_list'] = '商品列表';
 $_LANG['02_goods_add'] = '添加新商品';
@@ -293,9 +296,6 @@ $_LANG['04_sms_charge'] = '账户充值';
 $_LANG['05_sms_send_history'] = '发送记录';
 $_LANG['06_sms_charge_history'] = '充值记录';
 
-
-
-
 $_LANG['affiliate'] = '推荐设置';
 $_LANG['affiliate_ck'] = '分成管理';
 $_LANG['flashplay'] = '首页主广告管理';
@@ -304,6 +304,15 @@ $_LANG['email_list'] = '邮件订阅管理';
 $_LANG['magazine_list'] = '杂志管理';
 $_LANG['attention_list'] = '关注管理';
 $_LANG['view_sendlist'] = '邮件队列管理';
+
+/*手机端管理*/
+
+$_LANG['01_ad_list'] = '手机端首页主广告';
+$_LANG['02_mobile_license'] = '手机端授权证书';
+$_LANG['03_mobile_navigator'] = '手机端导航';
+$_LANG['04_mobile_pay'] = '手机端支付方式';
+
+
 
 /* 积分兑换管理 */
 $_LANG['15_exchange_goods'] = '积分商城商品';
@@ -347,8 +356,6 @@ $_LANG['alipay_login'] = '<a href="https://www.alipay.com/user/login.htm?goto=ht
 $_LANG['alipay_look'] = '<a href=\"https://www.alipay.com/himalayas/practicality.htm\" target=\"_blank\">请申请成功后登录支付宝账户查看</a>';
 
 
-
-$_LANG['04_sms_sign'] = '短信签名';
 
 
 ?>
